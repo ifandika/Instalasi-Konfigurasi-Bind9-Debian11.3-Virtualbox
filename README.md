@@ -71,7 +71,7 @@ Lalu kita edit file **named.conf.options**.
 ```Txt
 $ nano /etc/bind/named.conf.options
 ```
-![Img](resource/img-3.png)
+![Img](resource/img-7.png)
 
 **4.** Edit file dns atau resolv.conf, rubah nameserver menggunakan IP debian.
 ```Txt
